@@ -7,7 +7,7 @@
     "magento/module-captcha": "100.3.*"
   },
   "license": [
-    "Open Software License (OSL)"
+    "MIT"
   ],
   "autoload": {
     "files": [
